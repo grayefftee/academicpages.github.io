@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "instapic-min (1).png"
+  avatar           : "https://github.com/grayefftee/grayefftee.github.io/blob/master/instapic-min%20(1).png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
